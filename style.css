@@ -1,0 +1,21 @@
+header {
+    padding:0px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: gold;
+    color: black;
+}
+footer {
+    padding: 0px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(224, 195, 29);
+    color: black;
+}
+section {
+    display: flex;
+}
